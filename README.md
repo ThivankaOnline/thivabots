@@ -1,2 +1,1 @@
-# thivabots
-This is my files
+Thivanka Bot
